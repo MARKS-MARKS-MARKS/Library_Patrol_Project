@@ -1,0 +1,2 @@
+# First demo scaffold uses only the Python standard library.
+# No dependency installation is required.

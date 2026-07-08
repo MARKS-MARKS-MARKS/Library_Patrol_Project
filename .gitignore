@@ -1,40 +1,21 @@
-# secrets
 .env
-*.key
-*.pem
-
-# ROS / build
-build/
-install/
-log/
-*.log
-
-# C/C++ build
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-*.o
-*.so
-*.a
-
-# Python
+*.env
 __pycache__/
 *.pyc
-
-# local temp
-/tmp/
-.cache/
-.vscode/
-.idea/
-
-# board binaries / transfer files
-*.b64
-*.gz
-voice_motion_test
-square_path_voice_test
-safe_motor_test
-encoder_slow_roll_test
-
-# optional: huge third-party library
-LS2K0301_Library/
+*.log
+log/
+logs/
+*.bak*
+*.pt
+*.pth
+*.onnx
+*.engine
+*.weights
+weights/
+**/weights/
+*.rar
+*.zip
+tools/ls_2k0300_env/
+**/tools/ls_2k0300_env/
+build/
+install/

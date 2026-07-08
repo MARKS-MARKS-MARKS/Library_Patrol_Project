@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "name": "ROS2 Humble + Project",
+      "includePath": [
+        "${workspaceFolder}/project/user",
+        "${workspaceFolder}/project/code",
+        "${workspaceFolder}/libraries/zf_common",
+        "${workspaceFolder}/libraries/zf_device",
+        "${workspaceFolder}/libraries/zf_driver",
+        "${workspaceFolder}/libraries/zf_components",
+        "/opt/ros/humble/include/**",
+        "/usr/include/opencv4",
+        "${workspaceFolder}/**"
+      ],
+      "browse": {
+        "path": [
+          "${workspaceFolder}",
+          "/opt/ros/humble/include",
+          "/usr/include/opencv4"
+        ],
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "compilerPath": "/usr/bin/g++",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "linux-gcc-x64",
+      "compileCommands": "${workspaceFolder}/project/out/compile_commands.json",
+      "compilerArgs": [
+        "-pthread"
+      ]
+    }
+  ],
+  "version": 4
+}
