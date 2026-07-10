@@ -1,3 +1,0 @@
-/home/zhubuntu/桌面/LS2K0300_Library/Double_uvc_test/project/out/CMakeFiles/rebuild_cache.dir
-/home/zhubuntu/桌面/LS2K0300_Library/Double_uvc_test/project/out/CMakeFiles/edit_cache.dir
-/home/zhubuntu/桌面/LS2K0300_Library/Double_uvc_test/project/out/CMakeFiles/project.dir
