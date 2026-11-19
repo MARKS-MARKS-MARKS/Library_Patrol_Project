@@ -3,7 +3,7 @@
 AI赋能图书馆微型自主巡检机器人关键代码。
 ## 演示视频
 
-[<img width="426" height="240" alt="Embedded_Systems" src="https://github.com/user-attachments/assets/153ab545-da23-49f2-a38b-d0ae7b219b82" />](https://github.com/MARKS-MARKS-MARKS/Library_Patrol_Project/blob/main/library_patrol_final_demo/Embedded_Systems.gif)
+![机器人巡检演示](./main/library_patrol_final_demo/Embedded_Systems.gif)
 
 
 ## 本次提交重点
