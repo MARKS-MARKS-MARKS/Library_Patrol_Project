@@ -3,7 +3,7 @@
 AI赋能图书馆微型自主巡检机器人关键代码。
 ## 演示视频
 
-![机器人巡检演示](./main/library_patrol_final_demo/Embedded_Systems.gif)
+![机器人巡检演示](./library_patrol_final_demo/Embedded_Systems.gif)
 
 
 ## 本次提交重点
